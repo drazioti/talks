@@ -18,6 +18,6 @@
 
 9. Elliptic curves and Cryptography, 90 years of Mathematics in AUTH, 19 & 20 December 2018 [90years,program], Aristotle University of Thessaloniki, Thessaloniki. 
 
-10. Post Quantum Crypto, Invitation by ACM student chapter of AUTH, 20 May 2019 
+10. Post Quantum Crypto, Invitation by ACM student chapter of AUTH, 20 May 2019
 
- 
+11. Enhancing an Attack to DSA Schemes, CAI 2019.
