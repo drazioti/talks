@@ -21,3 +21,5 @@
 10. Post Quantum Crypto, Invitation by ACM student chapter of AUTH, 20 May 2019
 
 11. Enhancing an Attack to DSA Schemes, CAI 2019, Serbia.
+
+12. Cybersecurity in quantum era, Sfhmmy 12, 23 April 2021.
