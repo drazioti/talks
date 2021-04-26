@@ -16,7 +16,9 @@
 
 8. Improved Knapsack Algorithms, 11th Athens Colloquium on Algorithms and Complexity (ACAC 2016), Athens, Greece.
 
-9. Elliptic curves and Cryptography, 90 years of Mathematics in AUTH, 19 & 20 December 2018, Aristotle University of Thessaloniki, Thessaloniki. 
+9a. Elliptic curves and Cryptography, 90 years of Mathematics in AUTH, 19 & 20 December 2018, Aristotle University of Thessaloniki, Thessaloniki. 
+
+9b. Elliptic curves and cryptography [paper], a summary of the previous talk.
 
 10. Post Quantum Crypto, Invitation by ACM student chapter of AUTH, 20 May 2019
 
