@@ -24,4 +24,4 @@
 
 11. Enhancing an Attack to DSA Schemes, CAI 2019, Serbia.
 
-12. Cybersecurity in quantum era, Sfhmmy 12, 23 April 2021.
+12. Cybersecurity in quantum era, Sfhmmy 12, 23 April 2021, Thessaloniki.
