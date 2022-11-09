@@ -6,7 +6,7 @@
 
 3. Μέθοδοι Αλγεβρικής Γεωμετρίας με έμφαση στις Διοφαντικές Εξισώσεις ( In Greek, National Technical University of Athens; Athens, 27 Jan. 2009)
 
-4. Pell numbers of the form px^2. (3rd Internatonal Conference in Algebraic Informatics, 19-22 May 2009, Thessalolniki.
+4. Pell numbers of the form $px^2.$ (3rd Internatonal Conference in Algebraic Informatics, 19-22 May 2009, Thessalolniki.
 
 5. Balanced Solutions of Linear Diophantine Equations, 7th Athens Colloquium on Algorithms and Complexity (ACAC12), 27-28 August, University of Athens, Athens.
 
@@ -25,3 +25,5 @@
 11. Enhancing an Attack to DSA Schemes, CAI 2019, Serbia.
 
 12. Cybersecurity in quantum era, Sfhmmy 12, 23 April 2021, Thessaloniki.
+
+13. Introduction to the terminology of Blockchain. [ OK!Thess & Europe Direct Thessalonikis](https://www.linkedin.com/feed/update/urn:li:activity:6994223257503567872/) (invitation), Thessaloniki, 
