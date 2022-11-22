@@ -27,3 +27,5 @@
 12. Cybersecurity in quantum era, Sfhmmy 12, 23 April 2021, Thessaloniki.
 
 13. Introduction to the terminology of Blockchain. [ OK!Thess & Europe Direct Thessalonikis](https://www.linkedin.com/feed/update/urn:li:activity:6994223257503567872/) (invitation), Thessaloniki, 
+
+14. Sagemath computer algebra system, 19/11/2022, Fosscomm 2022.
