@@ -28,4 +28,6 @@
 
 13. Introduction to the terminology of Blockchain. [ OK!Thess & Europe Direct Thessalonikis](https://www.linkedin.com/feed/update/urn:li:activity:6994223257503567872/) (invitation), Thessaloniki, 
 
-14. Sagemath computer algebra system, 19/11/2022, Fosscomm 2022.
+14. Sagemath computer algebra system, 19/11/2022, Fosscomm 2022 (remote).
+
+15. Why the current encryption standards must be updated? The case of Post Quantum Cryptography., Sfhmmy 14, April 2023, Volos.
