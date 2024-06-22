@@ -1,6 +1,6 @@
 # talks
 
-1. Fibonacci Conference (Patra 2008) 
+1. On the Ljunggren equation $y^2=2x^4-1$, Fibonacci Conference (Patra 2008) 
 
 2. Η μέθοδος του Chabauty και Ακέραια Σημεία επί Ελλειπτικών Καμπύλων (In Greek, Department of Mathematics, University of Ioannina; Ioannina, 18 Nov. 2008)
 
