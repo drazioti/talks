@@ -31,3 +31,4 @@
 14. Sagemath computer algebra system, 19/11/2022, Fosscomm 2022 (remote).
 
 15. Why the current encryption standards must be updated? The case of Post Quantum Cryptography., Sfhmmy 14, April 2023, Volos.
+16. Message recovery in NTRU based on CVP, NuTMiC 2024, June 24 – June 26, 2024, Szczecin, Poland.
