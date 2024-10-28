@@ -24,11 +24,12 @@
 
 11. Enhancing an Attack to DSA Schemes, CAI 2019, Serbia.
 
-12. Cybersecurity in quantum era, Sfhmmy 12, 23 April 2021, Thessaloniki.
+12. Cybersecurity in quantum era, Sfhmmy 12, 23 April 2021, Thessaloniki ( [you tube link](https://www.youtube.com/watch?v=O2JfXcF3uEo) )
 
 13. Introduction to the terminology of Blockchain. [ OK!Thess & Europe Direct Thessalonikis](https://www.linkedin.com/feed/update/urn:li:activity:6994223257503567872/) (invitation), Thessaloniki, 
 
 14. Sagemath computer algebra system, 19/11/2022, Fosscomm 2022 (remote).
 
-15. Why the current encryption standards must be updated? The case of Post Quantum Cryptography., Sfhmmy 14, April 2023, Volos.
+15. Why the current encryption standards must be updated? The case of Post Quantum Cryptography, Sfhmmy 14, April 2023, Volos ( [you tube link](https://www.youtube.com/watch?v=ruyyQ4n4Ono) )
+
 16. Message recovery in NTRU based on CVP, NuTMiC 2024, June 24 – June 26, 2024, Szczecin, Poland.
