@@ -33,4 +33,4 @@
 15. Why the current encryption standards must be updated? The case of Post Quantum Cryptography, Sfhmmy 14, April 2023, Volos 
 ([you tube link](https://www.youtube.com/watch?v=ruyyQ4n4Ono) )
 
-16. Message recovery in NTRU based on CVP, NuTMiC 2024, June 24 – June 26, 2024, Szczecin, Poland.
+16. [Message recovery in NTRU based on CVP](https://nutmic2024.usz.edu.pl/talks/), NuTMiC 2024, June 24 – June 26, 2024, Szczecin, Poland.
